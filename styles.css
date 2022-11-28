@@ -1,3 +1,8 @@
+*{
+  background-image: url(./forras/hatter.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+}
 body {
   font-family: sans-serif;
   background-attachment: fixed;
@@ -62,4 +67,12 @@ table {
   font-style: italic;
   font-family: 'Courier New', Courier, monospace;
   font-weight: bold;
+}
+table{
+  margin-right: 20px;
+  background-color: rgba(277, 225, 233, 0.3);
+}
+th{
+  background: #0A82F7;
+  color: white;
 }
