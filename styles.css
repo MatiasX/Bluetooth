@@ -47,7 +47,7 @@ h2 {
   font-style: italic;
 }
 
-p.imgtitle {
+p .imgtitle {
   font-size: 1.1em;
   margin: 0;
   font-style: italic;
@@ -57,21 +57,16 @@ p.imgtitle {
 
 table {
   border: 3px solid #0A82F7;
-}
-
-table {
   margin-right: 20px;
   background-color: rgba(227, 225, 233, 0.3);
 }
+
 .b{
   font-style: italic;
   font-family: 'Courier New', Courier, monospace;
   font-weight: bold;
 }
-table{
-  margin-right: 20px;
-  background-color: rgba(277, 225, 233, 0.3);
-}
+
 th{
   background: #0A82F7;
   color: white;
